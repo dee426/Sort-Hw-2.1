@@ -1,6 +1,6 @@
 # Sort-Hw-2.1
 
-https://travis-ci.org/dee426/Sort-Hw-2.1.svg?branch=master
+[![Build Status](https://travis-ci.org/dee426/Sort-Hw-2.1.svg?branch=master.png)]
 
 Problem Statement:
 
