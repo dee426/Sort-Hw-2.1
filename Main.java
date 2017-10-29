@@ -1,11 +1,10 @@
 package hw3;
 
-import java.util.Scanner;
 
 import org.apache.commons.cli.*;
 
 
-public class Main implements Comparable{
+public class Main implements Comparable<Object>{
 
 
 	
@@ -30,7 +29,6 @@ public class Main implements Comparable{
 		options.addOption(keyIn);
 		options.addOption(listIn);
 
-		Scanner reader = new Scanner(System.in);
 		try {
 			CommandLine cmd = parser.parse(options, args);
 
