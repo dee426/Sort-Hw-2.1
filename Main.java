@@ -51,7 +51,7 @@ public class Main implements Comparable<Object>{
 					System.out.println("In Integer....");
 					for (int i =0; i< inList.length; i++)
 					{
-						System.out.println("List Selected: " + inList[i]);
+						//System.out.println("List Selected: " + inList[i]);
 						numbList[i] = Integer.parseInt(inList[i]);
 					}
 					
